@@ -1,0 +1,40 @@
+git status
+git add testing.py
+git status
+git rm --cashe testing.py
+git rm --cached testing.py
+git status
+git add testing.py
+git status
+git commit -m "testing py file"
+git status
+git commit -m "testing py file"
+git config --global user.name "Shekhar"
+git config --global user.email "kokare.sk88@gmail.com"
+git commit -m "testing py file"
+git status
+rm  testing.py
+git status
+git restore testing.py
+git restore testing.py
+  20 history
+  21 git add gitcommand -m "all used command"
+  22 git add -f gitcommand -m "all used command"
+  23 git add .\gitcommand.txt
+  24 git status
+  25 git commit -m "All Used commands"
+  26 git status
+  27 git remote add origin https://github.com/Shekharkkc/github-for-devops.git
+  28 git remote -v
+  35 git push origin master
+  36 mkdir local-demo
+  37 ls
+  38 cd .\local-demo\
+  39 git clone https://github.com/Shekharkkc/github-for-devops.git
+  40 ls
+  41 cd .\github-for-devops\
+  42 ls
+  43 cd ..
+  44 cd ..
+  45 git story
+  46 git history
